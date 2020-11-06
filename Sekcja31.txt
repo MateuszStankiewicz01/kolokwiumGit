@@ -2,4 +2,6 @@ Zmiana01
 NaprawaBledu
 Zmiana02Branch
 Zmiana03Branch
+ZmianaDowolna1
+
 
